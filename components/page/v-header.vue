@@ -8,7 +8,7 @@
             <p class="header__like-count">3</p>
             <img
               class="header__like"
-              src="/header-like.svg"
+              src="header-like.svg"
               alt="изображение сердечка - лайка"
             />
           </div>
