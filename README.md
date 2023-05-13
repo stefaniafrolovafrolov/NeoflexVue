@@ -22,6 +22,10 @@
 - добавить анимацию
 - добавить новый функционал
 
+## Ссылка на макет в Figma:
+
+- https://www.figma.com/file/bBkg5W8GRwGmhNCVeXevoN/Neoflex-Invite-Test?type=design&node-id=0-1
+
 ## Ссылка на Хостинг TimeWeb:
 
 - https://cg04348.tmweb.ru/
