@@ -7,10 +7,9 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
-  "homepage": "https://stefaniafrolovafrolov.github.io/NeoflexVue/",
+
   "dependencies": {
     "core-js": "^3.19.3",
     "nuxt": "^2.15.8",
