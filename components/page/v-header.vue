@@ -16,7 +16,7 @@
             <p class="header__basket-count">{{ counter }}</p>
             <img @click="$router.push('/basket')"
                  class="header__basket"
-                 src="/header-basket.svg"
+                 src="header-basket.svg"
                  alt="изображение корзины с товарами"
             />
           </div>

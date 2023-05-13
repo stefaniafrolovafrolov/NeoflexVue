@@ -14,7 +14,7 @@
             <div class="footer__lang">
               <img
                 class="footer__globe"
-                src="/footer-globe.svg"
+                src="footer-globe.svg"
                 alt="изображение глобуса"
               />
               <button class="footer__button-ru">Pyc</button>
@@ -25,17 +25,17 @@
         <div class="footer__social">
           <img
             class="footer__social-icon"
-            src="/VK.svg"
+            src="VK.svg"
             alt="иконка вконтакте"
           />
           <img
             class="footer__social-icon"
-            src="/Telegram.svg"
+            src="Telegram.svg"
             alt="иконка телеграм"
           />
           <img
             class="footer__social-icon"
-            src="/Whatsapp.svg"
+            src="Whatsapp.svg"
             alt="иконка ватсап"
           />
         </div>

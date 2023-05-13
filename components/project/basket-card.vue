@@ -14,13 +14,13 @@
       <div class="basket__block-count">
         <img @click="$emit('decreaseQuantity', card)"
              class="basket__button-minus"
-             src="/-.svg"
+             src="-.svg"
              alt="круглая кнопочка с минусом убавления"
         />
         <p class="basket__count">{{ card.count }}</p>
         <img @click="$emit('addQuantity', card)"
              class="basket__button-plus"
-             src="/+.svg"
+             src="+.svg"
              alt="круглая кнопочка с плюсом добавления"
         />
       </div>
