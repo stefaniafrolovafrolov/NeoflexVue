@@ -70,7 +70,7 @@ export default {
     object-fit: cover;
     background: transparent;
     border: none;
-    background-image: url(./Trash.svg);
+    background-image: url('./Trash.svg');
     width: 21px;
     height: 17px;
   }
